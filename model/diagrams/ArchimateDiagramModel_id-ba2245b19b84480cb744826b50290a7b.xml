@@ -9,8 +9,7 @@
       name="Prueba"
       textAlignment="1">
     <bounds
-        x="-24"
-        y="84"
+        y="120"
         width="541"
         height="181"/>
     <children
@@ -78,8 +77,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-166d15b35fd24eaa86815ab9d31564d4">
     <bounds
-        x="144"
-        y="420"
+        x="187"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -97,5 +96,28 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-98591876fb4640e5b96daedad25d468c.xml#id-98591876fb4640e5b96daedad25d468c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-1563bf8c8be541928085309c0d15b541"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="84"
+        y="24"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-35ca23e583fe4c7294df340f650c1489">
+      <bounds
+          x="66"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-d44d63246cbc466fbed37a75be4bf729.xml#id-d44d63246cbc466fbed37a75be4bf729"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
