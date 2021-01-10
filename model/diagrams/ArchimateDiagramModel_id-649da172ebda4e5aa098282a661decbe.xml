@@ -1,4 +1,29 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="UNI Estrategico"
-    id="id-649da172ebda4e5aa098282a661decbe"/>
+    id="id-649da172ebda4e5aa098282a661decbe">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-6d8dbaab6b48459392b4dc88a32c0acb"
+      name="Motivacional"
+      textAlignment="1">
+    <bounds
+        x="72"
+        y="36"
+        width="793"
+        height="313"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-46702f8e92e84a3889f3b3d64fcd85ba">
+      <bounds
+          x="300"
+          y="48"
+          width="157"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-5c5439bad7d2423cacbcd53d072a0342.xml#id-5c5439bad7d2423cacbcd53d072a0342"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
