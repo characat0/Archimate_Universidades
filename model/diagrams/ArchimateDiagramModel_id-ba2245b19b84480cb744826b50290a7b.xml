@@ -11,8 +11,32 @@
     <bounds
         x="120"
         y="108"
-        width="337"
-        height="169"/>
+        width="541"
+        height="181"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-153178a3451a4ff09a1231fd27d4ac42">
+      <bounds
+          x="81"
+          y="69"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-f47f4a1ab4a24f85950d812db3125868.xml#id-f47f4a1ab4a24f85950d812db3125868"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-18d48b9df057466480c8e7ed7b5d7664">
+      <bounds
+          x="266"
+          y="83"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-e5f445a1c2074690bff63aaf16f56a9e.xml#id-e5f445a1c2074690bff63aaf16f56a9e"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
