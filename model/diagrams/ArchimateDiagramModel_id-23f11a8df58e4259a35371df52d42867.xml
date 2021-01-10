@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UNMSM"
+    id="id-23f11a8df58e4259a35371df52d42867">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3d4a5d70af03496ca97a42e3e8d2e54e">
+    <bounds
+        x="96"
+        y="204"
+        width="637"
+        height="157"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-a75cda53193c47b19d5891eae6823f86.xml#id-a75cda53193c47b19d5891eae6823f86"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e0792b76258e44be9384c72f92d7a0f4">
+    <bounds
+        x="792"
+        y="240"
+        width="265"
+        height="133"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-5c7435788ceb41dd8c826ab119b13a78.xml#id-5c7435788ceb41dd8c826ab119b13a78"/>
+  </children>
+</archimate:ArchimateDiagramModel>
