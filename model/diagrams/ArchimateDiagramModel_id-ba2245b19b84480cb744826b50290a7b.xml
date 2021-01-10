@@ -50,4 +50,15 @@
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-6a898e3a59d344c186093ffa8d535191.xml#id-6a898e3a59d344c186093ffa8d535191"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-9971ce83b6654dd1af144fb0ddc653b6"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="192"
+        y="406"
+        width="400"
+        height="140"/>
+  </children>
 </archimate:ArchimateDiagramModel>
