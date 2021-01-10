@@ -9,7 +9,8 @@
       name="Prueba"
       textAlignment="1">
     <bounds
-        y="144"
+        x="300"
+        y="456"
         width="541"
         height="181"/>
     <children
