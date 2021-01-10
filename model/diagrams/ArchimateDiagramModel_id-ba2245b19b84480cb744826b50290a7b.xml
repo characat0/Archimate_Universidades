@@ -42,8 +42,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1b1d714a17664f8187a4b03c81cce20e">
     <bounds
-        x="228"
-        y="300"
+        x="240"
+        y="307"
         width="120"
         height="55"/>
     <archimateElement
@@ -73,5 +73,17 @@
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_id-6a45fe75a5b24278a4a1b1c0506dcc89.xml#id-6a45fe75a5b24278a4a1b1c0506dcc89"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-166d15b35fd24eaa86815ab9d31564d4">
+    <bounds
+        x="144"
+        y="420"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-893d825e75ae4469a01e72e1ccc5452e.xml#id-893d825e75ae4469a01e72e1ccc5452e"/>
   </children>
 </archimate:ArchimateDiagramModel>
