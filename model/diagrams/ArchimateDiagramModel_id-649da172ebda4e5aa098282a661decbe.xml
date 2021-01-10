@@ -25,5 +25,17 @@
           xsi:type="archimate:Goal"
           href="Goal_id-5c5439bad7d2423cacbcd53d072a0342.xml#id-5c5439bad7d2423cacbcd53d072a0342"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-5cd60ac414304e6f84a54924a24c0013">
+      <bounds
+          x="453"
+          y="159"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Driver"
+          href="Driver_id-d4a20ca84c3640d69381b8d7a0faf3c9.xml#id-d4a20ca84c3640d69381b8d7a0faf3c9"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
