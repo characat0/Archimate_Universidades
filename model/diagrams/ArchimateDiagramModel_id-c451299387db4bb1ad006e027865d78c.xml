@@ -1,4 +1,92 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Villareal-Henry"
-    id="id-c451299387db4bb1ad006e027865d78c"/>
+    name="Villareal"
+    id="id-c451299387db4bb1ad006e027865d78c">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-60864d9082544336850e47b013f36a18"
+      name="Motivacional"
+      textAlignment="1">
+    <bounds
+        x="24"
+        y="72"
+        width="1033"
+        height="337"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-88b3658063fe44a0b580d9d54ebbb553">
+      <features
+          name="labelExpression"
+          value="Objetivo Estrategico 01&#xD;&#xA;Fortalecer la formacion profesional de los estudiantes.&#xD;&#xA;"/>
+      <bounds
+          x="12"
+          y="36"
+          width="181"
+          height="73"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-19bc78c8ec984f87ad2bf4c5ecefb0e3.xml#id-19bc78c8ec984f87ad2bf4c5ecefb0e3"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-881e2151dabd4c8da4b182f2e095ab84">
+      <features
+          name="labelExpression"
+          value="Objetivo Estrategico 02&#xD;&#xA;Promover la investigacion produccion cientifica, innovacion y el emprendimito de la comunidad universitaria&#xD;&#xA;"/>
+      <bounds
+          x="204"
+          y="36"
+          width="193"
+          height="97"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-ab8992552468483198c8d38cd67a8234.xml#id-ab8992552468483198c8d38cd67a8234"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-732964c5753745cabc6203693d55e6f6">
+      <features
+          name="labelExpression"
+          value="Objetivo Estrategico 03"/>
+      <bounds
+          x="408"
+          y="36"
+          width="205"
+          height="73"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-7a3019f7d8d649eea36ef3b5fab55f62.xml#id-7a3019f7d8d649eea36ef3b5fab55f62"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-71072b7892324b7d9c02d06b3343738d">
+      <features
+          name="labelExpression"
+          value="Objetivo Estrategico 04"/>
+      <bounds
+          x="624"
+          y="36"
+          width="205"
+          height="73"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-1e0332a9a8264087971f371e9c60d1d0.xml#id-1e0332a9a8264087971f371e9c60d1d0"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-82130c4d404443fbbaa776cbeb2cc6b6">
+      <features
+          name="labelExpression"
+          value="Objetivo Estrategico 05"/>
+      <bounds
+          x="840"
+          y="36"
+          width="181"
+          height="73"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-c8f678c6735f445db816f0ce17967d9c.xml#id-c8f678c6735f445db816f0ce17967d9c"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
