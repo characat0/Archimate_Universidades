@@ -86,4 +86,16 @@
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-893d825e75ae4469a01e72e1ccc5452e.xml#id-893d825e75ae4469a01e72e1ccc5452e"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e5ca91ba4a044104af6b74afb0305ee7">
+    <bounds
+        x="568"
+        y="151"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-98591876fb4640e5b96daedad25d468c.xml#id-98591876fb4640e5b96daedad25d468c"/>
+  </children>
 </archimate:ArchimateDiagramModel>
