@@ -9,8 +9,8 @@
       name="Prueba"
       textAlignment="1">
     <bounds
-        x="120"
-        y="108"
+        x="12"
+        y="96"
         width="541"
         height="181"/>
     <children
@@ -61,5 +61,17 @@
     <archimateElement
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-6a898e3a59d344c186093ffa8d535191.xml#id-6a898e3a59d344c186093ffa8d535191"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2c47b793c06a4eefb3dd87e955bf4d3d">
+    <bounds
+        x="488"
+        y="303"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Outcome"
+        href="Outcome_id-9ecd3d7366ba4c798cc3f2693817b66f.xml#id-9ecd3d7366ba4c798cc3f2693817b66f"/>
   </children>
 </archimate:ArchimateDiagramModel>
