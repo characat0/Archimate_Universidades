@@ -9,8 +9,8 @@
       name="Motivacional"
       textAlignment="1">
     <bounds
-        x="72"
-        y="36"
+        x="-120"
+        y="12"
         width="793"
         height="313"/>
     <children
@@ -39,16 +39,6 @@
     </children>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-2fa76f1f9b614ed588ea8acc121b4d6d"
-      textAlignment="1">
-    <bounds
-        x="925"
-        y="138"
-        width="185"
-        height="80"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9f5f842b322343ccac9607d7275dc502"
       textAlignment="1">
@@ -65,7 +55,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81f9fd093b524ab7aa76ad67e890ea07"
       targetConnections="id-b3444a085a254f35a08ddbf7a90a6966"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#fffcd5">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d49cd64f02434807ab216b763a3ea763"
