@@ -151,10 +151,10 @@
         id="id-245e67ddfd824b5b95c2d6615980d23f"
         targetConnections="id-5dd1127220254d00b1277a4f28fef354">
       <bounds
-          x="2443"
-          y="60"
-          width="384"
-          height="84"/>
+          x="2448"
+          y="24"
+          width="354"
+          height="121"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-ef1f786957aa4977a89a4bdee8fcd68f.xml#id-ef1f786957aa4977a89a4bdee8fcd68f"/>
@@ -1397,7 +1397,7 @@
           x="2088"
           y="360"
           width="157"
-          height="85"/>
+          height="49"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-e3d909e333044d54b3f10362344c6e46.xml#id-e3d909e333044d54b3f10362344c6e46"/>
@@ -1470,9 +1470,9 @@
         targetConnections="id-3dc203c3415347508cbf75356167dff1 id-96b8b231a559463384a135a4f625168f">
       <bounds
           x="864"
-          y="234"
+          y="216"
           width="157"
-          height="49"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-a70ad463dbc941ee8d906e0193777f17.xml#id-a70ad463dbc941ee8d906e0193777f17"/>
