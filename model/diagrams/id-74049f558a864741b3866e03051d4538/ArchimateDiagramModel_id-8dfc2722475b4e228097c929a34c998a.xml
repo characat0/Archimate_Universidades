@@ -10,8 +10,8 @@
       textAlignment="1"
       fillColor="#b5a9e9">
     <bounds
-        x="-600"
-        y="60"
+        x="-1044"
+        y="108"
         width="5557"
         height="697"/>
     <children
@@ -539,8 +539,8 @@
           href="CompositionRelationship_id-5d19cf5980784723a0103b2db37e5b61.xml#id-5d19cf5980784723a0103b2db37e5b61"/>
     </sourceConnections>
     <bounds
-        x="-600"
-        y="852"
+        x="-1044"
+        y="900"
         width="5556"
         height="492"/>
     <children
@@ -981,8 +981,8 @@
           href="AggregationRelationship_id-adba5f62fef74d9191a8cd2b4bcd49d8.xml#id-adba5f62fef74d9191a8cd2b4bcd49d8"/>
     </sourceConnections>
     <bounds
-        x="336"
-        y="1440"
+        x="-312"
+        y="1512"
         width="4189"
         height="745"/>
     <children
