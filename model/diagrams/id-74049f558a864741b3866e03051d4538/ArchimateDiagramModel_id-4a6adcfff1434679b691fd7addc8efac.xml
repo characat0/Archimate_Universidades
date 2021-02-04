@@ -126,4 +126,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-09c9868d38654f5b8ff402cd999bd8b8.xml#id-09c9868d38654f5b8ff402cd999bd8b8"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-e14707c4401f4381b328355854086e00"
+      name="Motivadores conductores"
+      textAlignment="1">
+    <bounds
+        x="24"
+        y="288"
+        width="1932"
+        height="192"/>
+  </children>
 </archimate:ArchimateDiagramModel>
