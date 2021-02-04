@@ -10,8 +10,8 @@
       textAlignment="1"
       fillColor="#b5a9e9">
     <bounds
-        x="-324"
-        y="252"
+        x="-264"
+        y="540"
         width="5557"
         height="697"/>
     <children
@@ -539,8 +539,8 @@
           href="CompositionRelationship_id-35efd81e912d415ea63321f149c22ed9.xml#id-35efd81e912d415ea63321f149c22ed9"/>
     </sourceConnections>
     <bounds
-        x="-504"
-        y="1020"
+        x="-468"
+        y="1032"
         width="5556"
         height="492"/>
     <children
