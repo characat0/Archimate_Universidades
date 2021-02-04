@@ -1033,34 +1033,6 @@
         href="Grouping_id-f284e832d90a4c14b2b1d4a18e720b67.xml#id-f284e832d90a4c14b2b1d4a18e720b67"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-21a1f30811e4452c9631aaf0b4a9f5c2"
-      textAlignment="1"
-      fillColor="#80ffff">
-    <bounds
-        x="326"
-        y="1824"
-        width="4177"
-        height="601"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-0ae4a798acdd450eaded064840bf724b.xml#id-0ae4a798acdd450eaded064840bf724b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7979f0e42687415eaa9bdf06b5b17d73"
-      textAlignment="1"
-      fillColor="#80ff80">
-    <bounds
-        x="326"
-        y="2536"
-        width="4273"
-        height="481"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-6b2d174ca15940b681fbcaf761b66de7.xml#id-6b2d174ca15940b681fbcaf761b66de7"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-a8e63d14d30a400aa6e05c52065b8d37"
       name="Nivel Motivacional Procesos Estrategicos UNI"
