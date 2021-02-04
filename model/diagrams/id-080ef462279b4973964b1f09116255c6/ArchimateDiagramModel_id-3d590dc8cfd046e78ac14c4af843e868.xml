@@ -5,34 +5,6 @@
     id="id-3d590dc8cfd046e78ac14c4af843e868">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-bad6c9f0666d4fae8038a3ba6462a904"
-      textAlignment="1"
-      fillColor="#80ffff">
-    <bounds
-        x="322"
-        y="1608"
-        width="5197"
-        height="721"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-0ae4a798acdd450eaded064840bf724b.xml#id-0ae4a798acdd450eaded064840bf724b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1fbe4d1193e1440caf1ec5b107260d9d"
-      textAlignment="1"
-      fillColor="#80ff80">
-    <bounds
-        x="372"
-        y="2436"
-        width="4273"
-        height="481"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-6b2d174ca15940b681fbcaf761b66de7.xml#id-6b2d174ca15940b681fbcaf761b66de7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d9f81972becf482ba8aba69036f1129f"
       targetConnections="id-afe0772605dd4384a7537a58cd8815ca"
       textAlignment="1"
