@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Stakeholders2"
+    name="Stakeholders"
     id="id-2db1b84472cd4de2ab34ae49b2ccebcc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -35,8 +35,8 @@
           href="CompositionRelationship_id-a038e710f5fc47508c7fa5674eed0fa5.xml#id-a038e710f5fc47508c7fa5674eed0fa5"/>
     </sourceConnections>
     <bounds
-        x="191"
-        y="196"
+        x="912"
+        y="216"
         width="1932"
         height="180"/>
     <children
@@ -88,8 +88,8 @@
       name="Motivadores conductores"
       textAlignment="1">
     <bounds
-        x="191"
-        y="424"
+        x="912"
+        y="444"
         width="1932"
         height="192"/>
     <children
@@ -236,8 +236,8 @@
           href="CompositionRelationship_id-b55ceb955d6b433a8f6c286d911952c9.xml#id-b55ceb955d6b433a8f6c286d911952c9"/>
     </sourceConnections>
     <bounds
-        x="191"
-        y="684"
+        x="912"
+        y="704"
         width="1932"
         height="180"/>
     <children
@@ -382,8 +382,8 @@
           href="CompositionRelationship_id-b898dfc0215a44cb8a3c20ba9c745c29.xml#id-b898dfc0215a44cb8a3c20ba9c745c29"/>
     </sourceConnections>
     <bounds
-        x="191"
-        y="888"
+        x="912"
+        y="908"
         width="1932"
         height="180"/>
     <children
@@ -514,8 +514,8 @@
           href="CompositionRelationship_id-64737e8249024b178226e2a9c3301202.xml#id-64737e8249024b178226e2a9c3301202"/>
     </sourceConnections>
     <bounds
-        x="180"
-        y="1128"
+        x="901"
+        y="1148"
         width="1932"
         height="180"/>
     <children
@@ -682,8 +682,8 @@
           href="CompositionRelationship_id-c66b2357d9814955ae7be6290e8debe0.xml#id-c66b2357d9814955ae7be6290e8debe0"/>
     </sourceConnections>
     <bounds
-        x="180"
-        y="1380"
+        x="901"
+        y="1400"
         width="1932"
         height="180"/>
     <children
