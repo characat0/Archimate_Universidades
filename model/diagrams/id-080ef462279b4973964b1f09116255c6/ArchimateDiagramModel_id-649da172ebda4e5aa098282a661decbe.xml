@@ -1620,9 +1620,9 @@
           targetConnections="id-f5cda44688bb4111a64708f84caefc03">
         <bounds
             x="12"
-            y="32"
+            y="24"
             width="157"
-            height="85"/>
+            height="109"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_id-00651a65645445068e2bcb3baa61f2d8.xml#id-00651a65645445068e2bcb3baa61f2d8"/>
