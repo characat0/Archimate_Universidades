@@ -147,10 +147,10 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e37b408bb59d495cb0cea48bf4c0c1b2">
       <bounds
-          x="252"
-          y="136"
-          width="144"
-          height="75"/>
+          x="264"
+          y="156"
+          width="145"
+          height="56"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-43bbfe60ae26495996d071a2c0a50cf9.xml#id-43bbfe60ae26495996d071a2c0a50cf9"/>
@@ -171,10 +171,10 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f6bc0d15c0fe449287b63c7d05929fa1">
       <bounds
-          x="432"
-          y="126"
-          width="169"
-          height="95"/>
+          x="438"
+          y="141"
+          width="157"
+          height="85"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-9b45c79676cb41ad8d922f50a2e6a776.xml#id-9b45c79676cb41ad8d922f50a2e6a776"/>
